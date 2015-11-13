@@ -41,9 +41,6 @@
     <ClCompile Include="..\midl.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\mdb_load.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\win32\getopt.c">
       <Filter>win32</Filter>
     </ClCompile>
